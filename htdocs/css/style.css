@@ -1,11 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Gugi|Montserrat');
+
 :root {
     --primary-color: #c5d6da;
     --primary-color-dark: #7f949a;
     --primary-color-light: #ddedf0;
     --secondary-color: #f8eae6;
     --secondary-color-dark: #d6c0bb;
-    --secondary-color-light: #ffffff;
+    --secondary-color-light: #fff;
     --font-heading: 'Gugi', cursive;
     --font-body: 'Montserrat', sans-serif;
 }
@@ -33,6 +34,7 @@ h5,
 h6 {
     font-family: var(--font-heading, 'Montserrat', sans-serif);
 }
+
 .outer-wrap {
     margin: 0 auto;
     background-color: #fff;
