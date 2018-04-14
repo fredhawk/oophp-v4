@@ -1,16 +1,21 @@
 ---
+
 ...
 Om
 =========================
 
-Denna webbplatsen är en del av kursen [XXX](https://dbwebb.se/kurser/XXX). Uppdatera så att länken går till kursens hemsida på dwebb.se.
+<!-- [FIGURE src=img/car.png?w=300 caption="En fin bil som demobild."] -->
 
-Några egna kloka ord om kursen?
+<!-- [FIGURE src=image/hero.png caption="PHP"] -->
 
-En fin och representativ bild för kursen, enligt ditt egna val.
+[FIGURE src="../img/hero.png?w300" caption="PHP" class="hero"]
 
-[FIGURE src=image/car.png?w=300 caption="En fin bil som demobild."]
+<!-- <figure class="hero">
+  <img src="img/hero.jpg" alt="database">
+</figure> -->
 
-Länka till [dbwebb kursrepot på GitHub](https://github.com/dbwebbse/XXX).
+Denna webbplatsen är en del av kursen [Objektorienterad PHP](https://dbwebb.se/kurser/oophp-v4).
 
-Länka till [ditt eget repo för me/redovisa på GitHub](https://github.com/XXX/XXX).
+Lite djupare kurs om PHP där fokus ligger på objektorad programmering och testning.
+
+Repot för denna kursen kan man hitta [här](https://github.com/osycon/oophp-v4).
